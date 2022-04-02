@@ -60,3 +60,14 @@ Different functions are used for performing different billing operations in the 
 •	The function void writefile() has been utilized to create a file on hard disc of computer for storing the information and data of a customer.
 •	The function void search() has been used to look for previously stored accounts either by name or by number of the customer. 
 •	The fourth and the last user defined function used in this Warehouse Billing System is void output() which has been defined to show the result as console output.
+
+
+![161399453-df3905c2-fdf0-41ad-9b94-b79004e5b22a](https://user-images.githubusercontent.com/86312170/161403026-c09229f1-429d-4e38-9272-bc96048a0ab3.png)
+
+
+# Expected Results #
+![SearchAccount](https://user-images.githubusercontent.com/86312170/161403112-d3fcd0aa-f157-4041-98bd-b09644199d64.png)
+![AddAccount](https://user-images.githubusercontent.com/86312170/161403113-dcaed699-734c-4563-8b8d-eccce649fcf8.png)
+![Exit](https://user-images.githubusercontent.com/86312170/161403114-06d408a6-fe19-4b33-8cc7-d5cd36eecc2b.png)
+![MainPage](https://user-images.githubusercontent.com/86312170/161403115-53f67d79-1297-452e-ad7b-3737d24526a1.png)
+
