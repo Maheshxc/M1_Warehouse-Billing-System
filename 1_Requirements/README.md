@@ -46,4 +46,23 @@
 # Detail requirements
 ## High Level Requirements:
 
-## Table
+ ID	     | Description                                           | Category	| Status
+---------|-------------------------------------------------------|----------|------------   
+HR01     |User shall be able to create account.                  |Techincal	| IMPLEMENTED
+HR02     |User shall be able to check details of existing record |Techincal	| IMPLEMENTED
+HR03     |User shall be able to see the due of the coustomer     |Techincal	| IMPLEMENTED
+HR04     |User shall be able to view customer list	             |Technical	| IMPLEMENTED
+HR05     |	USER shall be able to exit	                         |Technical	| IMPLEMENTED
+
+## Low level Requirements:
+
+ID   |Description                                                                                                           |HLR ID |	Status (Implemented/Future)
+-----|----------------------------------------------------------------------------------------------------------------------|-------|------------   
+LR01 |New Retailer shall be added by providing all the asked information also should be different from existing file.       |HR1    |IMPLEMENTED
+LR02 |If user tries to create an existing record then the system doesn't allow	                                            |HR02   |IMPLEMENTED
+LR03 |	User needs to enter name to perform , and if the account doesn't exist then it shows 'doesn't exist'	              |HR03	  |IMPLEMENTED
+LR04 |	User shall be able to check details of only existing record/name, if it doesn't exist then it shows 'doesn't exist' |HR04	  |IMPLEMENTED
+LR05 |	User shall be able to view all student list in tabular form	                                                        |HR05	  |IMPLEMENTED
+
+
+
