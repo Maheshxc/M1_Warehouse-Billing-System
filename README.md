@@ -1,6 +1,11 @@
 # Warehouse Billing System using C
 The program is mainly used for tracking of details about the retailers their dues,current pavements and about personal details.This project written in the C programming language provides an interface for handling the information. For more details on the project read the requirements and design docs. For building the project refer to the implementation doc.
 
+# Badges
+![image](https://user-images.githubusercontent.com/86312170/167430597-a0211cbf-7648-449b-baf5-fe5d7c512e14.png)
+![image](https://user-images.githubusercontent.com/86312170/167430680-8a8b4429-7953-4eb7-b65a-eaa52c6c43d8.png)
+
+
 # Folder Structure
 
 Folder	                   |   Description
